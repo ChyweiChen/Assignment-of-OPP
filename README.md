@@ -43,5 +43,6 @@ The time of the clock is same as the really time.
 
 ### Programming running video
 <br/>
-[![IMAGE ALT TEXT HERE](https://github.com/ChyweiChen/Assignment-of-OPP/blob/master/video.png)](https://www.youtube.com/watch?v=OfXZwW-2mEg&feature=youtu.be)
+<a href="https://www.youtube.com/watch?v=OfXZwW-2mEg&feature=youtu.be" target="_blank"><img src="https://github.com/ChyweiChen/Assignment-of-OPP/blob/master/video.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
